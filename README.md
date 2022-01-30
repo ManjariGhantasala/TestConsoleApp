@@ -6,6 +6,11 @@ Unzip and extract TestConsoleApp.zip file
 
 replace "C:\CombinedLetters" with folder path of CombinedLetters from the current local system which contains fixed file folders like Input, Output & Archive
 
+# Assumptions
+
+Folder names in Combined letters eg-  "Input" are Case sensitve
+File names in Dated folder in Admission & Scolarship folders are case sensitive eg - "Admission-12345" or "Scholarship-12345"
+
 # Run
 
 run the program [Run](TestConsoleApp.sln) in any Development Environment(eg: Visual Studio)
